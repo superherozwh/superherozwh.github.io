@@ -15,8 +15,31 @@
     <atom:link href="https://sudo777.xyz/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>专注于Web,分享生活,分享知识</description>
-    <pubDate>Sun, 05 Sep 2021 12:32:32 GMT</pubDate>
+    <pubDate>Mon, 06 Sep 2021 10:58:48 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>echarts</title>
+      <link>https://sudo777.xyz/2021/09/06/echarts/</link>
+      <guid>https://sudo777.xyz/2021/09/06/echarts/</guid>
+      <pubDate>Mon, 06 Sep 2021 10:58:12 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;hello</description>
+          
+        
+      
+      
+      
+      
+      
+      
+      <comments>https://sudo777.xyz/2021/09/06/echarts/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>提升自己</title>
