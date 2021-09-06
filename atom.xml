@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>化羽</title>
-  <icon>http://superherozwh/superherozwh.github.io/icon.png</icon>
+  <icon>https://sudo777.xyz/icon.png</icon>
   <subtitle>化羽</subtitle>
-  <link href="http://superherozwh/superherozwh.github.io/atom.xml" rel="self"/>
+  <link href="https://sudo777.xyz/atom.xml" rel="self"/>
   
-  <link href="http://superherozwh/superherozwh.github.io/"/>
+  <link href="https://sudo777.xyz/"/>
   <updated>2021-09-05T12:32:32.019Z</updated>
-  <id>http://superherozwh/superherozwh.github.io/</id>
+  <id>https://sudo777.xyz/</id>
   
   <author>
     <name>化羽</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>提升自己</title>
-    <link href="http://superherozwh/superherozwh.github.io/2021/09/05/ti-sheng-zi-ji/"/>
-    <id>http://superherozwh/superherozwh.github.io/2021/09/05/ti-sheng-zi-ji/</id>
+    <link href="https://sudo777.xyz/2021/09/05/ti-sheng-zi-ji/"/>
+    <id>https://sudo777.xyz/2021/09/05/ti-sheng-zi-ji/</id>
     <published>2021-09-05T01:25:00.000Z</published>
     <updated>2021-09-05T12:32:32.019Z</updated>
     
@@ -34,17 +34,17 @@
     
     
     
-    <category term="个人" scheme="http://superherozwh/superherozwh.github.io/categories/%E4%B8%AA%E4%BA%BA/"/>
+    <category term="个人" scheme="https://sudo777.xyz/categories/%E4%B8%AA%E4%BA%BA/"/>
     
     
-    <category term="成长" scheme="http://superherozwh/superherozwh.github.io/tags/%E6%88%90%E9%95%BF/"/>
+    <category term="成长" scheme="https://sudo777.xyz/tags/%E6%88%90%E9%95%BF/"/>
     
   </entry>
   
   <entry>
     <title>改变圈子</title>
-    <link href="http://superherozwh/superherozwh.github.io/2021/09/04/gai-bian-quan-zi/"/>
-    <id>http://superherozwh/superherozwh.github.io/2021/09/04/gai-bian-quan-zi/</id>
+    <link href="https://sudo777.xyz/2021/09/04/gai-bian-quan-zi/"/>
+    <id>https://sudo777.xyz/2021/09/04/gai-bian-quan-zi/</id>
     <published>2021-09-04T01:25:00.000Z</published>
     <updated>2021-09-05T12:32:23.299Z</updated>
     
@@ -59,17 +59,17 @@
     
     
     
-    <category term="生活" scheme="http://superherozwh/superherozwh.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    <category term="生活" scheme="https://sudo777.xyz/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-    <category term="成长" scheme="http://superherozwh/superherozwh.github.io/tags/%E6%88%90%E9%95%BF/"/>
+    <category term="成长" scheme="https://sudo777.xyz/tags/%E6%88%90%E9%95%BF/"/>
     
   </entry>
   
   <entry>
     <title>高楼林立的超级城市，为何让你感到荒诞和卑微？</title>
-    <link href="http://superherozwh/superherozwh.github.io/2021/09/03/gao-lou-lin-li-de-chao-ji-cheng-shi-wei-he-rang-ni-gan-dao-huang-dan-he-bei-wei/"/>
-    <id>http://superherozwh/superherozwh.github.io/2021/09/03/gao-lou-lin-li-de-chao-ji-cheng-shi-wei-he-rang-ni-gan-dao-huang-dan-he-bei-wei/</id>
+    <link href="https://sudo777.xyz/2021/09/03/gao-lou-lin-li-de-chao-ji-cheng-shi-wei-he-rang-ni-gan-dao-huang-dan-he-bei-wei/"/>
+    <id>https://sudo777.xyz/2021/09/03/gao-lou-lin-li-de-chao-ji-cheng-shi-wei-he-rang-ni-gan-dao-huang-dan-he-bei-wei/</id>
     <published>2021-09-03T01:25:00.000Z</published>
     <updated>2021-09-05T13:20:28.798Z</updated>
     
@@ -84,17 +84,17 @@
     
     
     
-    <category term="城市" scheme="http://superherozwh/superherozwh.github.io/categories/%E5%9F%8E%E5%B8%82/"/>
+    <category term="城市" scheme="https://sudo777.xyz/categories/%E5%9F%8E%E5%B8%82/"/>
     
     
-    <category term="社会" scheme="http://superherozwh/superherozwh.github.io/tags/%E7%A4%BE%E4%BC%9A/"/>
+    <category term="社会" scheme="https://sudo777.xyz/tags/%E7%A4%BE%E4%BC%9A/"/>
     
   </entry>
   
   <entry>
     <title>共同富裕有几种办法？</title>
-    <link href="http://superherozwh/superherozwh.github.io/2021/09/02/gong-tong-fu-yu-you-ji-chong-ban-fa/"/>
-    <id>http://superherozwh/superherozwh.github.io/2021/09/02/gong-tong-fu-yu-you-ji-chong-ban-fa/</id>
+    <link href="https://sudo777.xyz/2021/09/02/gong-tong-fu-yu-you-ji-chong-ban-fa/"/>
+    <id>https://sudo777.xyz/2021/09/02/gong-tong-fu-yu-you-ji-chong-ban-fa/</id>
     <published>2021-09-02T01:25:00.000Z</published>
     <updated>2021-09-05T13:19:56.881Z</updated>
     
@@ -109,17 +109,17 @@
     
     
     
-    <category term="社会" scheme="http://superherozwh/superherozwh.github.io/categories/%E7%A4%BE%E4%BC%9A/"/>
+    <category term="社会" scheme="https://sudo777.xyz/categories/%E7%A4%BE%E4%BC%9A/"/>
     
     
-    <category term="财富" scheme="http://superherozwh/superherozwh.github.io/tags/%E8%B4%A2%E5%AF%8C/"/>
+    <category term="财富" scheme="https://sudo777.xyz/tags/%E8%B4%A2%E5%AF%8C/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://superherozwh/superherozwh.github.io/2021/09/01/hello-world/"/>
-    <id>http://superherozwh/superherozwh.github.io/2021/09/01/hello-world/</id>
+    <link href="https://sudo777.xyz/2021/09/01/hello-world/"/>
+    <id>https://sudo777.xyz/2021/09/01/hello-world/</id>
     <published>2021-09-01T01:25:00.000Z</published>
     <updated>2021-09-05T12:33:24.186Z</updated>
     
@@ -134,10 +134,10 @@
     
     
     
-    <category term="欢迎词" scheme="http://superherozwh/superherozwh.github.io/categories/%E6%AC%A2%E8%BF%8E%E8%AF%8D/"/>
+    <category term="欢迎词" scheme="https://sudo777.xyz/categories/%E6%AC%A2%E8%BF%8E%E8%AF%8D/"/>
     
     
-    <category term="代码" scheme="http://superherozwh/superherozwh.github.io/tags/%E4%BB%A3%E7%A0%81/"/>
+    <category term="代码" scheme="https://sudo777.xyz/tags/%E4%BB%A3%E7%A0%81/"/>
     
   </entry>
   
