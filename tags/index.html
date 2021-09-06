@@ -165,6 +165,37 @@
 <link rel="alternate" href="/rss2.xml" title="化羽" type="application/rss+xml">
 <link rel="stylesheet" href="/css/prism-tomorrow.css" type="text/css"></head>
 
+<style type="text/css">
+        .uk-alert {
+            margin-bottom: 15px;
+            padding: 10px;
+            background: #ebf7fd;
+            color: #2d7091;
+            border: 1px solid rgba(45, 112, 145, 0.3);
+            border-radius: 4px;
+            text-shadow: 0 1px 0 #ffffff;
+        }
+        .uk-alert-success {
+            background: #e8ece2;
+            color: #659f13;
+            border-left: 6px solid rgba(120, 199, 9);
+            font-weight: 600;
+        }
+        .uk-alert-warning {
+            background: #fff1f0;
+            color: rgb(73, 59, 156);
+            border-left: 6px solid rgb(83, 27, 184, 0.3);
+            font-weight: 600;
+        }
+        .uk-alert-danger {
+            background: #f8f8f6;
+            color: #eb360d;
+            border-left: 6px solid#eb360d;
+            font-weight: 600;
+        }
+ </style>
+
+
 
     
         <style>
@@ -695,7 +726,7 @@
 
     
 
-    <div class="container row center-align"
+    <div class="container  center"
          style="margin-bottom: 15px !important;">
         <div class="col s12 m8 l8 copy-right">
             Copyright&nbsp;&copy;
@@ -703,9 +734,9 @@
                 <span id="year">2021</span>
             
             <span id="year">2021</span>
-            <a href="/about" target="_blank">化羽</a>
+            <!-- <a href="/about" target="_blank">化羽</a>
             |&nbsp;Powered by&nbsp;<a href="https://hexo.io/" target="_blank">Hexo</a>
-            |&nbsp;Theme&nbsp;<a href="https://github.com/blinkfox/hexo-theme-matery" target="_blank">Matery</a>
+            |&nbsp;Theme&nbsp;<a href="https://github.com/blinkfox/hexo-theme-matery" target="_blank">Matery</a> -->
             <br>
             
             
@@ -725,6 +756,89 @@
             </span>
             
             <br>
+
+            <div class="github-badge">
+            <a style="color: #fff" rel="license" href="https://hexo.io/" target="_blank" title="由 Hexo 强力驱动">
+            <span class="badge-subject">Powered</span><span class="badge-value bg-blue">Hexo</span></a>
+          </div>
+          <div class="github-badge">
+            <a style="color: #fff" rel="license" href="https://github.com/" target="_blank" title="静态网页托管于 GitHub Pages">
+            <span class="badge-subject">Hosted</span><span class="badge-value bg-brightgreen">GitHub</span></a>
+          </div>
+          <div class="github-badge">
+            <a style="color: #fff" rel="license" href="https://cloud.tencent.com/" target="_blank" title="阿里云提供域名相关服务">
+            <span class="badge-subject">DNS</span><span class="badge-value bg-blueviolet">Aliyun</span></a>
+          </div>
+          <div class="github-badge">
+            <a style="color: #fff" rel="license" href="https://www.jsdelivr.com/" target="_blank" title="jsDelivr 提供 CDN 加速服务">
+            <span class="badge-subject">CDN</span><span class="badge-value bg-orange">jsDelivr</span></a>
+          </div>
+          <div class="github-badge">
+              <a style="color: #fff" rel="license" href="https://blinkfox.github.io/" target="_blank" title="站点使用 Matery主题">
+            <span class="badge-subject">Theme</span><span class="badge-value bg-blue">Matery</span></a>
+          </div>
+         
+</div>
+
+
+
+<style>
+    .github-badge {
+        display:inline-block;
+        border-radius:4px;
+        text-shadow:none;
+        font-size:13px;
+        color:#fff;
+        line-height:15px;
+        background-color:#ABBAC3;
+        margin-bottom:5px;
+    }
+    .github-badge .badge-subject {
+        display:inline-block;
+        background-color:#4D4D4D;
+        padding:4px 4px 4px 6px;
+        border-top-left-radius:4px;
+        border-bottom-left-radius:4px;
+    }
+    .github-badge .badge-value {
+        display:inline-block;
+        padding:4px 6px 4px 4px;
+        border-top-right-radius:4px;
+        border-bottom-right-radius:4px;
+    }
+    .github-badge .bg-brightgreen {
+        background-color:#4DC820 !important;
+    }
+    .github-badge .bg-orange {
+        background-color:#FFA500 !important;
+    }
+    .github-badge .bg-yellow {
+        background-color:#D8B024 !important;
+    }
+    .github-badge .bg-blueviolet {
+        background-color:#8833D7 !important;
+    }
+    .github-badge .bg-pink {
+        background-color:#F26BAE !important;
+    }
+    .github-badge .bg-red {
+        background-color:#e05d44 !important;
+    }
+    .github-badge .bg-blue {
+        background-color:#007EC6 !important;
+    }
+    .github-badge .bg-lightgrey {
+        background-color:#9F9F9F !important;
+    }
+    .github-badge .bg-grey, .github-badge .bg-gray {
+        background-color:#555 !important;
+    }
+    .github-badge .bg-lightgrey, .github-badge .bg-lightgray {
+        background-color:#9f9f9f !important;
+    }
+</style>
+
+
 
             <!-- 运行天数提醒. -->
             
@@ -789,43 +903,7 @@
                 <a href="/null" target="_blank">©2021 by 化羽</a>
             </span>
             
-        </div>
-        <div class="col s12 m4 l4 social-link social-statis"><!-- 
-    <a href="https://github.com/superherozwh" class="tooltipped" target="_blank" data-tooltip="访问我的GitHub" data-position="top" data-delay="50">
-        <i class="fab fa-github"></i>
-    </a>
- -->
-
-
-    <a href="mailto:zhangnoah@163.com" class="tooltipped" target="_blank" data-tooltip="邮件联系我" data-position="top" data-delay="50">
-        <i class="fas fa-envelope-open"></i>
-    </a>
-    
-
-        <!-- 
-
- -->
-
         
-            <a href="tencent://AddContact/?fromId=50&fromSubId=1&subcmd=all&uin=http://wpa.qq.com/msgrd?v=3&amp;uin=584866338&amp;site=qq&amp;menu=yes" class="tooltipped" target="_blank" data-tooltip="QQ联系我: http://wpa.qq.com/msgrd?v=3&amp;uin=584866338&amp;site=qq&amp;menu=yes" data-position="top" data-delay="50">
-                <i class="fab fa-qq"></i>
-            </a>
-            
-
-                
-                    <a href="https://weibo.com/u/5660358068" class="tooltipped" target="_blank" data-tooltip="关注我的微博: https://weibo.com/u/5660358068" data-position="top" data-delay="50">
-                        <i class="fab fa-weibo"></i>
-                    </a>
-                    
-
-                        <!-- 
-
-
-    <a href="/atom.xml" class="tooltipped" target="_blank" data-tooltip="RSS 订阅" data-position="top" data-delay="50">
-        <i class="fas fa-rss"></i>
-    </a>
- --></div>
-    </div>
 </footer>
 
 <div class="progress-bar"></div>
